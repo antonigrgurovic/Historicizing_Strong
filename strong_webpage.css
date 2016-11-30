@@ -9,3 +9,24 @@ p {
     border: 1px solid #778899;
     color: black;﻿
   }
+
+html {
+        margin: 10px;
+        padding: 30px;
+        background: ivory;
+  }
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    background-color: #f4cb42;
+    color: black;
+  }
+
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    background-color: #f4cb42;
+    color: black;
+    border: 1px solid #778899;
+  }
